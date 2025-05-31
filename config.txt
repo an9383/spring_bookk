@@ -1,0 +1,6 @@
+ch3_jdbc
+1. EmpRepository
+
+@Autowired(required=false)
+JdbcTemplate jdbcTemplate;
+
